@@ -5,3 +5,7 @@ Java LTS 8, with OOP practices
 
 AI Generation Link: <br>
 https://claude.ai/share/e622fbd9-880e-4106-8136-cfdff7960f5b
+
+
+# Rquired:
+Java JDK 8
