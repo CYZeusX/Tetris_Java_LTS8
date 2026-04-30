@@ -4,4 +4,4 @@ Java LTS 8, with OOP practices
 
 
 AI Generation Link: <br>
-https://gemini.google.com/share/f9c6f4b0675a
+https://claude.ai/share/e622fbd9-880e-4106-8136-cfdff7960f5b
